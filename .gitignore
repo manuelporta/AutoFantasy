@@ -1,0 +1,5 @@
+__pycache__/
+chromedriver_win32
+*.py[cod]
+*$py.class
+*xlsx
